@@ -1,1 +1,1 @@
-# prosperity-prognosticator-machine-learning-for-startup-success
+# Prosperity-Prognosticator-Machine-Learning-For-Startup-Success
